@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hemachandiran
 
 I'm passionate about:
-- 🔬 Quantum Computing
+- 🔬 full stack development
 - 💻 Python and C Programming
 - 🧠 Logical Reasoning & AI
 
